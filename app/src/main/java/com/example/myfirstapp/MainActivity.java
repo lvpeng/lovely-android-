@@ -114,6 +114,8 @@ public class MainActivity extends AppCompatActivity {
 
                         mLoading.setVisibility(View.GONE);
 
+                        mWebView.loadUrl("javascript:Bridge.callBack({success:true, message:'logged in'})");
+
                     }
 
                 });

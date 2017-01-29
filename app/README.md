@@ -1,0 +1,1 @@
+android java and javascript communication bridge following tutorial : [How to Safely Implement Hybrid HTML5 Android Applications](https://www.codementor.io/android/tutorial/secure-hybrid-html5-android-webview-mobile-app)
